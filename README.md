@@ -30,7 +30,8 @@
 I'm continuously learning and have earned official Microsoft certifications.  
 Check out my Learn profile here:
 
-🔗 [Microsoft Learn Profile - javz27](https://learn.microsoft.com/en-us/users/javz27)
+🔗 [Microsoft Learn Profile - javz27](https://learn.microsoft.com/en-us/users/
+JuanAndresVelezZea)
 
 ---
 
